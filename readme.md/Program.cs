@@ -16,6 +16,9 @@ namespace readme.md
 
             Console.WriteLine("PROD = " + produto);
 
+            var teste = Math.PI;
+            Console.WriteLine(teste);
+
         }
     }
 }
